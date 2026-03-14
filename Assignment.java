@@ -1,5 +1,3 @@
-package Basic;
-
 /**
  * Prints a palindrome number pyramid pattern.
  */
